@@ -18,6 +18,10 @@ And one more link for the slides:
 
 - [[http://campoy.cat/dubai][campoy.cat/dubai]]
 
+And some feedback:
+
+- [[http://campoy.cat/fb][campoy.cat/fb]]
+
 * About Go
 
 Go is an open-source programming language
@@ -688,13 +692,15 @@ Concurrency is awesome, and you should check it out.
 
 * What to do next?
 
-Learn Go on your browser with [[http://tour.golang.org][tour.golang.org]]
-
 Find more about Go on [[http://golang.org][golang.org]]
 
 Join the community at [[https://groups.google.com/forum/#!forum/Golang-nuts][golang-nuts]]
 
-Link to the slides [[http://talks.golang.org/2014/go4java.slide]]
+Link to the slides [[http://campoy.cat/dubai][campoy.cat/dubai]]
+
+Link to the feedback form [[http://campoy.cat/fb][campoy.cat/fb]]
+
+Learn Go on your browser with [[http://tour.golang.org][tour.golang.org]]
 
 * Exercises
 
@@ -760,3 +766,5 @@ Complete this code snippet:
 .code go4java/genex2.go /filterPrimes\(/,/^}/
 
 .play go4java/genex2.go /main\(/,
+
+*
